@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Generate HTTP access logs",
   "author": "Mihail Juganaru <mihail.juganaru@yahoo.com>",
+  "repository": {
+    "type": "git",
+	"url": "https://github.com/mihailj/genhttplogs.git"
+  }, 
   "dependencies": {
     "faker": "*",
     "strftime": "*"

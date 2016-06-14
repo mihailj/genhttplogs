@@ -14,7 +14,7 @@ npm install
 npm start [speed] -s
 npm start [speed] -s >> access.log
 ```
-[speed] = float; ex: 20, 0.5, etc...; lower is slower
+[speed] = optional parameter; float; ex: 20, 0.5, etc...; lower is slower
 
 ## Output
 ```
