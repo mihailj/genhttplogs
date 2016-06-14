@@ -1,0 +1,20 @@
+{
+  "name": "genhttplogs",
+  "version": "0.0.1",
+  "description": "Generate HTTP access logs",
+  "author": "Mihail Juganaru <mihail.juganaru@yahoo.com>",
+  "dependencies": {
+    "faker": "*",
+    "strftime": "*"
+  },
+  "main": "index.js",
+  "keywords": [
+    "http",
+    "access",
+    "log"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC"
+}
